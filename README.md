@@ -1,6 +1,13 @@
-### Greetings, I'm Nelson Katale.👋
+### Greetings, I'm Nelson Katale 👋
 
-I'm a software developer based in Kampala, Uganda who loves to build software that gets things done and out of the way. I've been building fullstack and Android mobile applications for about 3 years now and I'm still loving it. Once in a while I push in my pet projects so other users can get inspiration and ideas on how to build their next X project.
+<!-- ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3NjY0ZWVlOTU5NTJiYzJlYzRiMzczZDE0MTgxODc5NDk3NjNiYiZjdD1n/2ya7xLyEeynlZM4FCw/giphy.gif)  -->
+<p align="center">
+<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3NjY0ZWVlOTU5NTJiYzJlYzRiMzczZDE0MTgxODc5NDk3NjNiYiZjdD1n/2ya7xLyEeynlZM4FCw/giphy.gif">
+</p>
+
+### About Me 🧔
+
+I'm a software developer based in Kampala, Uganda who loves to build software that gets things done and out of the way. I've been building fullstack and Android mobile applications for over 3 years and I'm still loving it. Once in a while I push in my pet projects so other users can get inspiration and ideas on how to build their next X project.
 
 At the moment I'm looking for a full time position. If you know anyone hiring kindly send me a message [here](#social-links)
 
