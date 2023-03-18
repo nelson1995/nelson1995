@@ -1,17 +1,16 @@
-### Greetings, I'm Nelson Katale 👋
+# Greetings, 👋 
 
-<!-- ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3NjY0ZWVlOTU5NTJiYzJlYzRiMzczZDE0MTgxODc5NDk3NjNiYiZjdD1n/2ya7xLyEeynlZM4FCw/giphy.gif)  -->
 <p align="center">
 <img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3NjY0ZWVlOTU5NTJiYzJlYzRiMzczZDE0MTgxODc5NDk3NjNiYiZjdD1n/2ya7xLyEeynlZM4FCw/giphy.gif">
 </p>
 
-### About Me 🧔
+### 🧔 Welcome to my cave.
+I'm a Software Engineer based in Kampala, Uganda and I build software that gets things done and out of the way. I've been building fullstack and Android mobile applications for over 3 years and I'm still loving it. Once in a while I push in my pet projects so other users can get inspiration and ideas on how to build their next X project.
 
-I'm a software developer based in Kampala, Uganda who loves to build software that gets things done and out of the way. I've been building fullstack and Android mobile applications for over 3 years and I'm still loving it. Once in a while I push in my pet projects so other users can get inspiration and ideas on how to build their next X project.
+### Qoute
+ > Chop life. Problem's don't finish.
 
-At the moment I'm looking for a full time position. If you know anyone hiring kindly send me a message [here](#social-links)
-
-### Tech Stack & tools 💻 🛠:
+### 💻 🛠 My arsenal of tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -27,52 +26,23 @@ At the moment I'm looking for a full time position. If you know anyone hiring ki
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![BitBucket](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-### You can reach me at 📫:
+### 💬 Ask me about
+
+* Best Anime and Manga comics ⚡
+* Cars and engines
+* Manchester United ❤️❤️
+
+### 📫 How to reach me :
 <a id="social-links"></a>
-<a href="mailto:katalenelson@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="http://www.linkedin.com/in/nelson-guest-katale"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://stackoverflow.com/users/7519779/nelson-katale"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-<a href="https://twitter.com/Nelson_404"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+* Email:  <a href="mailto:katalenelson@gmail.com">Nelson Katale</a>
+* LinkedIn: <a href="http://www.linkedin.com/in/nelson-guest-katale">Nelson Guest Katale</a>
+* StackOverflow: <a href="https://stackoverflow.com/users/7519779/nelson-katale">Nelson Katale</a>
+* Twitter: <a href="https://twitter.com/Nelson_404">Nelson_404</a>
 
-<!--
-**nelson1995/nelson1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**nelson1995/nelson1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
