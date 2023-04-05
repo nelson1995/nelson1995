@@ -25,8 +25,9 @@ I'm a Software developer based in Kampala, Uganda and I build software that gets
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%231a202c.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJs](https://img.shields.io/badge/nodejs-%23ED8B00.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/expressjs-%23ED8B00.svg?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
