@@ -31,8 +31,6 @@ I'm a Software developer based in Kampala, Uganda and I build software that gets
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJs](https://img.shields.io/badge/nodejs-%23ED8B00.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![Expressjs](https://img.shields.io/badge/expressjs-%23ED8B00.svg?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
