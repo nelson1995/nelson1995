@@ -34,5 +34,3 @@ I'm a Software developer based in Kampala, Uganda and I build software that gets
 * Email:  <a href="mailto:katalenelson@gmail.com">Nelson Katale</a>
 * LinkedIn: <a href="http://www.linkedin.com/in/nelson-guest-katale">Nelson Guest Katale</a>
 * StackOverflow: <a href="https://stackoverflow.com/users/7519779/nelson-katale">Nelson Katale</a>
-* Twitter: <a href="https://twitter.com/Nelson_404">Nelson_404</a>
-
