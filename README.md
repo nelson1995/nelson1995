@@ -7,9 +7,6 @@
 ### 🧔 Welcome to my space.
 I'm a Software developer based in Kampala, Uganda and I build software that gets things done and out of the way. I've been building fullstack web applications and Android mobile applications for 3 years and I'm still loving it.
 
-### Qoute
- > Chop life. Problem's don't finish.
-
 ### 💻 🛠 My arsenal of tools:
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
