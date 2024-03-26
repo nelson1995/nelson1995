@@ -29,12 +29,6 @@ I'm a Software developer based in Kampala, Uganda and I build software that gets
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💬 Ask me about
-
-* Best Anime and Manga comics ⚡
-* Cars and engines
-* Manchester United 🔴
-
 ### 📫 How to reach me :
 <a id="social-links"></a>
 * Email:  <a href="mailto:katalenelson@gmail.com">Nelson Katale</a>
