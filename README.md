@@ -28,7 +28,6 @@
 
 ## Contact Me
 ### Email: katalenelson@gmail.com
-### Phone: +256 784 838 911 
 
 <br></br>
 ## 📊 GitHub Stats:
