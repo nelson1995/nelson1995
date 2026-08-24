@@ -1,4 +1,4 @@
-# Hello people, I'm Nelson G. Katale
+# Hello people, I'm Nelson G.M. Katale
 
 ## About Me
 - 👷  A dev who just wants to get things done and out of the way.
